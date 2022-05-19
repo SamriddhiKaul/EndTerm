@@ -1,0 +1,195 @@
+<html>
+<head>
+<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="C:\Users\Dell\OneDrive\Desktop\Felice Te-logos.jpeg">
+<title>Felice Te</title>
+<link rel="stylesheet" type="text/css" href="felice te index.css">
+</head>
+
+<body>
+
+<div id="back-img">
+       <img src="C:\Users\Dell\Downloads\background img1.jpg.jpg" height="300px" width="100%">
+</div>
+<div id="nav">
+<a href="HOMEPAGE.html" id="nav-content"><h3 id="nav1">í¿ HOME</h3></a>
+<a href="#" id="nav-content" onclick="myFunction2()"><h3 id="nav1">í´�NOTIFICATIONS</h3></a>
+<a href="https://www.google.com/maps/place/Chitkara+University/@30.5160865,76.6597778,15z/data=!4m5!3m4!1s0x0:0x81b346dee91799ca!8m2!3d30.5160865!4d76.6597778" id="nav-content"><h3 id="nav1">í³�LOCATION</h3></a>
+<a href="#dv" id="nav-content"><h3 id="nav1">í³²CONTACT US</h3></a>
+</div>
+
+<center>
+<div id="slider">
+  <ul id="slideWrap">
+      <li><img src="https://www.freegreatpicture.com/files/photo105/52420-health-care-themes-doctor-characters.jpg" alt=""></li>
+      <li><img src="http://archerstravels.com/wp-content/uploads/2020/08/appointment.png" alt=""></li>
+      <li><img src="https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1002149.g008&type=large" alt=""></li>
+      <li><img src="https://www.deccanherald.com/sites/dh/files/article_images/2020/05/19/file70kc18dlox411gg69752-1188005359-1560449918.jpg" alt=""></li>
+      <li><img src="https://media.ksdk.com/assets/KSDK/images/f3a3444d-c8f9-498f-b791-a3d972e15523/f3a3444d-c8f9-498f-b791-a3d972e15523_750x422.jpg" alt=""></li>
+      <li><img src="https://thumbs.dreamstime.com/b/good-health-word-cloud-hand-marker-concept-white-background-184068166.jpg" alt=""></li>
+	  <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKY9V4-DLuYBsDHmAdWt_f4XkJo-tT0PZBoQ&usqp=CAU" alt=""></li>
+	  <li><img src="https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/nutraingredients-latam.com/article/2019/09/12/nutrition-in-health-focus-could-saves-millions-of-lives-who-says/10142249-1-eng-GB/Nutrition-in-Health-Focus-Could-saves-Millions-of-Lives-WHO-says_wrbm_large.jpg" alt=""></li>
+      <li><img src="https://static.toiimg.com/photo/88953130.cms" alt=""></li>
+	  <li><img src="https://pharmaceutical-journal.com/wp-content/uploads/2021/01/herbal-medicines-ss-18-scaled.jpg" alt=""></li>
+	  <li><img src="https://www.economist.com/img/b/1280/720/90/sites/default/files/images/2022/01/articles/main/20220115_wbd001.jpg" alt=""></li>
+	  <li><img src="https://vidhilegalpolicy.in/wp-content/uploads/2021/10/mental-health-wellness-during-covid-19.jpg" alt=""></li>
+	  <li><img src="https://www2.deloitte.com/content/dam/Deloitte/us/Images/Misc/story-carousel/behavioral-health.jpg" alt=""></li>
+	  <li><img src="https://www.rasmussen.edu/-/media/images/blogs/school-of-health-sciences/types-of-healthcare-facilities.jpg?la=en&hash=F7CF957518B3FF2FE131CEC40394423726172D3F" alt=""></li>
+	  <li><img src="https://hindrise.org/resources/wp-content/uploads/2020/12/health-infrastructure-in-india.jpg" alt=""></li>
+	  <li><img src="https://img.freepik.com/free-photo/portrait-doctor-video-call-virtual-appointment-with-patient-new-normal-lifestyle-health-care-medicine-concept_58466-15869.jpg?size=626&ext=jpg" alt=""></li>
+	  <li><img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-574287,resizemode-1,msid-82750222/industry/healthcare/biotech/healthcare/as-virus-lurks-indians-save-wealth-for-health.jpg" alt=""></li>
+st1.latestly.com/wp-content/uploads/2021/04/Health-Day-2021.jpg" alt=""></l>
+	  <li><i src="https://img
+</ul>
+<a id="prev" href="#">&#8810;</a>
+<a id="next" href="#">&#8811;</a>
+</div>
+</center>
+
+<div id="comment-box">
+<form>
+      <textarea class="comment" placeholder="Type your comments here."></textarea>
+      <br><br>
+      <input type="Submit" onclick="myFunction()" name="Submit" value="Send" id="b1">
+    </form>
+</div>
+<div id="comment-box1">
+<center>
+<img src="https://media.istockphoto.com/vectors/red-blood-drop-vector-icon-blood-drop-illustration-in-flat-design-vector-id1202899098?k=20&m=1202899098&s=170667a&w=0&h=xHknwe3ew2xkc_NIR3nIvF6JC080dEd3dNkFrPfHF_k=" height="50%" width="80%" id="blood">
+<button id="b2" onclick="fun()">Donate Blood</button>
+</center><br><br>
+<span id="limit">&nbsp; &nbsp; Valid only for <br>18-65 yrs people!</span>
+</div>
+<div id="dv1">
+<h1 id="shine">Good health is</h1><h1 id="shine1">above wealth!</h1>
+</div>
+<center>
+<div id="images">
+<img src="https://www.rautnursinghome.com/images/displayimage/c8c34128f3bb4511c347dc2a1a38146507e645e3549575250bfb2.png?type=d" id="img_1">
+<a href="Doctor sign in.html"><button id="dr">DOCTOR</button></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRA9-oKkaThENz0siGv4eeKzJsiAX8qxdOAw&usqp=CAU" width="32%" height="70%" id="img_2">
+<a href="Patient sign in.html"><button id="pa">PATIENT</button></a>
+</center>
+</div>
+
+<div id="dv">
+<footer id="foot">
+<div class="footer-content">
+<h3>Contact Us</h3>
+<p>Creative and memorable, allowing visitors to associate contacting
+your brand with a positive memory.<br> HappyYou HappyUs!</p>
+<ul class="socials">
+<li><a href="https://www.facebook.com/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwJK-omJCHoRO04HDn-fMKnQAnpvMPzF3-7TO4r7VGS2-3bOPUOdV2wyNCjtM0YHOVtY&usqp=CAU" width="20%" height="8%" id="icon1">
+</a></li>
+<li>
+<a href="https://twitter.com/i/flow/login">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1ViBGEh9ljBsncvTqD37EeoQbI0TjYpyEsn1lxW7z7hEUbzXHybTa9I_KpumvEs90Fs&usqp=CAU" width="20%" height="8%" id="icon2">
+</a></li>
+<li>
+<a href="https://www.google.com/account/about/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgybuUwga37ZhC_vNxVOxBR3f2uHtdpxFj0jMNjyLNOY0qAzVTh6H3usekPkwVvqBEIEE&usqp=CAU" width="20%" height="8%" id="icon3">
+</a></li>
+<li>
+<a href="https://www.instagram.com/accounts/login/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs1o9g-ajjcFx7tYiwxFTPu1S4YwsGnniN4sEN8MqmOrq_6eLIMyDeDyhxDosP51TfTKM&usqp=CAU" width="20%" height="8%" id="icon4">
+</a></li>
+</ul>
+</div>
+<div class="footer-bottom">
+<p>copyright &copy; 2021 <a href="#">Felice Te</a>  </p>
+
+<div class="footer-menu">
+ <ul class="f-menu">
+    <li><a href="https://www.moldingmaterials.com/privacy-cookie-policy/?gclid=EAIaIQobChMIlZWk7KfC9QIVCdZ3Ch3kYwJvEAAYASAAEgIrDvD_BwE">| Privacy Policy</a></li>
+    <li><a href="https://policymaker.io/terms-conditions-ready/"> | Terms & Conditions</a></li>
+ </ul>
+</div>
+
+</div>
+
+</footer>
+</div>
+
+</body>
+</html>
+<script>
+var responsiveSlider = function() {
+
+var slider = document.getElementById("slider");
+var sliderWidth = slider.offsetWidth;
+var slideList = document.getElementById("slideWrap");
+var count = 1;
+var items = slideList.querySelectorAll("li").length;
+var prev = document.getElementById("prev");
+var next = document.getElementById("next");
+
+window.addEventListener('resize', function() {
+  sliderWidth = slider.offsetWidth;
+});
+
+var nextSlide = function() {
+  if(count < items) {
+    slideList.style.left = "-" + count * sliderWidth + "px";
+    count++;
+  }
+  else if(count = items) {
+    slideList.style.left = "0px";
+    count = 1;
+  }
+};
+
+var prevSlide = function() {
+  if(count > 1) {
+    count = count - 2;
+    slideList.style.left = "-" + count * sliderWidth + "px";
+    count++;
+  }
+  else if(count = 1) {
+    count = items - 1;
+    slideList.style.left = "-" + count * sliderWidth + "px";
+    count++;
+  }
+};
+
+next.addEventListener("click", function() {
+  nextSlide();
+});
+
+prev.addEventListener("click", function() {
+  prevSlide();
+});
+
+setInterval(function() {
+  nextSlide()
+}, 6000);
+
+};
+
+window.onload = function() {
+responsiveSlider();
+}
+
+function myFunction() {
+  alert("Your response has been recorded!í·¾");
+}
+
+function myFunction2() {
+  alert("You have new messages to read!í²¡");
+}
+
+function fun() {
+var a = confirm("Do you want to proceed with the blood donation process?");
+    if (a)
+    {
+        window.location = "https://www.jotform.com/build/220212172223437";
+    }
+    else
+   {
+        window.location = "";
+    }
+}
+</script>
